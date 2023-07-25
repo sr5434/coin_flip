@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Retourneur de pièces "</string>
+    <string name="flip_button">retourner</string>
+    <string name="flip_instructions">Appuyez sur flip pour lancer une pièce</string>
+    <string name="coin_heads">têtes</string>
+    <string name="coin_tails">queues</string>
+</resources>

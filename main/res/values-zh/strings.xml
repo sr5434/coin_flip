@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">硬币翻转器</string>
+    <string name="flip_instructions">" 按翻转翻转硬币"</string>
+    <string name="flip_button">翻动</string>
+    <string name="coin_heads">" 头"</string>
+    <string name="coin_tails">尾巴</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="flip_instructions">Press flip to flip a coin</string>
+    <string name="flip_button">flip</string>
+    <string name="app_name">Coin Flipper</string>
+    <string name="coin_heads">heads</string>
+    <string name="coin_tails">tails</string>
+</resources>

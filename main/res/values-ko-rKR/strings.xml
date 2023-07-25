@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"코인 플리퍼 "</string>
+    <string name="coin_tails">꼬리</string>
+    <string name="coin_heads">머리</string>
+    <string name="flip_button">튀기다</string>
+    <string name="flip_instructions">동전을 뒤집으려면 뒤집기를 누르세요.</string>
+</resources>

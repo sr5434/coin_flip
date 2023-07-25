@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">コインフリッパー</string>
+    <string name="coin_heads">"  頭"</string>
+    <string name="flip_button">フリップ</string>
+    <string name="flip_instructions">コインを投げるにはフリップを押します</string>
+    <string name="coin_tails">" 尾"</string>
+</resources>

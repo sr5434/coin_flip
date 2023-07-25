@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">زعنفة عملة</string>
+    <string name="flip_instructions">اضغط على الوجه لقلب عملة معدنية</string>
+    <string name="flip_button">يواجه</string>
+    <string name="coin_heads">رؤساء</string>
+    <string name="coin_tails">ذيول</string>
+</resources>
